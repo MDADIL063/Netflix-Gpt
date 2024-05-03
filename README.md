@@ -32,6 +32,9 @@
 - TMDB Image CDN URL
 - Made Browse Page amazing With Tailwind Css
 - Create Custom Hooks for Top Rated , Popular , Upcoming Movies
+- Create Search Page
+- Create SearchBar
+- Make Multi-Language SearchBar
 
 # Features
 
